@@ -15,8 +15,8 @@ understand [what it does](src/os/setup.sh). Seriously, **DON'T**!)
 
 | OS | Snippet |
 |:---|:---o
-| `macOS` | `bash -c "$(curl -LsS https://raw.github.com/kroneman/dotfiles/master/src/os/setup.sh)"` |
-| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/kroneman/dotfiles/master/src/os/setup.sh)"` |
+| `macOS` | `bash -c "$(curl -LsS https://raw.github.com/kroneman/dotfiles/ubuntu-server-config/src/os/setup.sh)"` |
+| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/kroneman/dotfiles/ubuntu-server-config/src/os/setup.sh)"` |
 
 That's it! :sparkles:
 
