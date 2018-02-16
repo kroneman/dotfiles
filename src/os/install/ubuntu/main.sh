@@ -9,16 +9,19 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 update
 upgrade
 
-./build-essentials.sh
-./../nvm.sh
+# Going to try to keep these out for now 
+#./build-essentials.sh
+#./../nvm.sh
 
-./browsers.sh
-./compression_tools.sh
+# Don't need browsers for ubuntu server
+#./browsers.sh
+# Same for compression tools
+#./compression_tools.sh
 ./git.sh
-./image_tools.sh
-./misc.sh
-./misc_tools.sh
-./../npm.sh
+#./image_tools.sh
+#./misc.sh
+#./misc_tools.sh
+#./../npm.sh
 ./tmux.sh
 ./../vim.sh
 
