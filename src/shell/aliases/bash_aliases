@@ -4,7 +4,8 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias cd..="cd .."
-
+alias l="ls -all"
+alias reload="source ~/.bash_profile"
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 alias :q="exit"
