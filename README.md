@@ -14,9 +14,9 @@ terminal:
 understand [what it does](src/os/setup.sh). Seriously, **DON'T**!)
 
 | OS | Snippet |
-|:---|:---|
-| `macOS` | `bash -c "$(curl -LsS https://raw.github.com/alrra/dotfiles/master/src/os/setup.sh)"` |
-| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/alrra/dotfiles/master/src/os/setup.sh)"` |
+|:---|:---o
+| `macOS` | `bash -c "$(curl -LsS https://raw.github.com/kroneman/dotfiles/master/src/os/setup.sh)"` |
+| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/kroneman/dotfiles/master/src/os/setup.sh)"` |
 
 That's it! :sparkles:
 
