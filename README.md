@@ -4,6 +4,11 @@ These are the base dotfiles that I start with when I set up a
 new environment. For more specific local needs I use the `.local`
 files described in the [`Local Settings`](#local-settings) section.
 
+## This project was forked from
+### [Cătălin](https://github.com/alrra)’s dotfiles 
+[![Build Status](https://travis-ci.org/alrra/dotfiles.svg?branch=master)](https://travis-ci.org/alrra/dotfiles)
+
+* made modifications on ubuntu config to work on ubuntu server instead of ubuntu desktop version
 
 ## Setup
 
@@ -175,8 +180,8 @@ such as the `git` user credentials, e.g.:
 
 [user]
 
-    name = Cătălin Mariș
-    email = alrra@example.com
+    name = Lennart Kroneman
+    email = a.l.kroneman@gmail.com
     signingkey = XXXXXXXX
 ```
 
